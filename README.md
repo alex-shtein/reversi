@@ -40,7 +40,7 @@ brew install sfml@2
 
 2. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/reversi.git
+git clone https://github.com/ash-shtein/reversi.git
 cd reversi
 ```
 
