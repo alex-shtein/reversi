@@ -66,7 +66,7 @@ make
 
 
 
-|Игра против ИИ|Игра против игрока|
+|Игра против ИИ|Выбор противника|
 |-------------------------|---------------------------------|
 | ![Game vs Player](./materials/window/playfielvsbot.png) | ![Player VS Player](./materials/window/playerVSplayer.png) |
 |Настройки игры|Настройки поля|
